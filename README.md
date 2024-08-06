@@ -1,5 +1,5 @@
 ## Ne1son567 
-Hi there 👋
+Hi there!👋 I’m a student at a technical high school in Germany, where I focus on computer science. In my spare time, I love programming and exploring different tech projects. 
 
 <!--
 **Ne1son567/Ne1son567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
